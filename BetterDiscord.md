@@ -1,4 +1,4 @@
-z# Discord-Theme
+# Discord-Theme
 A Better Discord Auto Updating Theme.
 
 ### Wallpapers
